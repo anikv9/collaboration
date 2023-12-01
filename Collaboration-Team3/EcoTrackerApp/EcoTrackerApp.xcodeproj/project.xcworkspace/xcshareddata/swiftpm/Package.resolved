@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "genericnetworklayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/luk407/GenericNetworkLayer.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "337c24245e091d5cd10ebb98a92da76eb9136f98"
+      }
+    }
+  ],
+  "version" : 2
+}
